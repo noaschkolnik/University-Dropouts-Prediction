@@ -1,6 +1,6 @@
 Experiment,Loss,Accuracy,Precision,Recall,F1-Score,AUC-ROC
 Base Model - MLP,5.659289,0.943411,0.0,0.0,0.0,0.5
 Base Model - MLP with changes in learning rate and weight decay,0.219013,0.056588,0.056588,1.0,0.107114,0.5
-Base Model - more layers MLP,0.217527,0.0565881,0.056588,1.0,0.107114,0.497106
+Base Model - more layers MLP,0.217527,0.056588,0.056588,1.0,0.107114,0.497106
 MLP with Data preprocessing and catgorical one hot encoding,0.207912,0.539178,0.438308,0.438300,0.094720,0.558500
 Enhanced MLP with skip connections and locally connected encoding for categorical one hot features,0.048856,0.624252,0.087335,0.641868,0.153750,0.683509
